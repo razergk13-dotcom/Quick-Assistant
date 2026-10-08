@@ -5,9 +5,12 @@ Quick Assistent ist ein kleiner Desktop-Assistent für Windows, erstellt von
 
 ## Starten
 
-1. Speichere `Quick Assistent.exe` auf deinem Windows-PC.
-2. Doppelklicke auf die EXE, um Quick Assistent zu starten.
-3. Drücke **F7**, um den Assistenten zu öffnen oder zu schließen.
+1. Öffne die GitHub-Seite von Quick Assistent und klicke rechts auf **Releases**.
+2. Öffne das neueste Release und lade unter den Dateien (`Assets`) die
+   `Quick Assistent.exe` herunter.
+3. Speichere die EXE auf deinem Windows-PC und doppelklicke darauf, um Quick
+   Assistent zu starten.
+4. Drücke **F7**, um den Assistenten zu öffnen oder zu schließen.
 
 Beim ersten Start kann Windows eine Sicherheitsmeldung anzeigen. Starte die Datei
 nur, wenn du ihr vertraust. Für die Update-Prüfung wird eine Internetverbindung
