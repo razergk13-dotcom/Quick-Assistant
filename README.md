@@ -1,37 +1,27 @@
-# Quick Assistent
+# Quick Assistant
 
-Quick Assistent ist ein kleiner Desktop-Assistent für Windows, erstellt von
-**RazerGK**.
+Quick Assistant is a lightweight desktop assistant for Windows, created by **RazerGK**.
 
-## Starten
+## Getting Started
 
-1. Öffne die GitHub-Seite von Quick Assistent und klicke rechts auf **Releases**.
-2. Öffne das neueste Release und lade unter den Dateien (`Assets`) die
-   `Quick Assistent.exe` herunter.
-3. Speichere die EXE auf deinem Windows-PC und doppelklicke darauf, um Quick
-   Assistent zu starten.
-4. Drücke **F7**, um den Assistenten zu öffnen oder zu schließen.
+1. Open the Quick Assistant GitHub page and click **Releases** on the right.
+2. Open the latest release and download `Quick Assistent.exe` from the `Assets` section.
+3. Save the EXE file to your Windows PC and double-click it to launch Quick Assistant.
+4. Press **F7** to open or close the assistant.
 
-Beim ersten Start kann Windows eine Sicherheitsmeldung anzeigen. Starte die Datei
-nur, wenn du ihr vertraust. Für die Update-Prüfung wird eine Internetverbindung
-benötigt. Gibt es eine neue Version, fragt Quick Assistent, ob du das Update
-installieren möchtest.
+When launching the application for the first time, Windows may display a security warning. Only run the file if you trust it. An internet connection is required to check for updates. If a new version is available, Quick Assistant will ask if you want to install the update.
 
-## Was Quick Assistent kann
+## Features
 
-- Fragen und Suchbegriffe im Web suchen und passende Ergebnisse anzeigen.
-- Spracheingaben auf Deutsch entgegennehmen. Dafür werden ein Mikrofon und eine
-  Internetverbindung benötigt.
-- Unterstützte Programme öffnen, wenn du zum Beispiel „Öffne den Editor“ schreibst
-  oder sagst.
-- Auf Begrüßungen und einige häufige kurze Nachrichten direkt antworten.
+* Search the web for questions and keywords and display relevant results.
+* Accept voice input in German. A microphone and an internet connection are required.
+* Open supported applications when you type or say commands such as "Open Notepad".
+* Respond directly to greetings and some common short messages.
 
-## Bedienung
+## Controls
 
-Schreibe deine Frage in das Eingabefeld und drücke **Enter** oder die Senden-Taste.
-Über die Mikrofon-Taste kannst du die Spracheingabe ein- und ausschalten. Mit **F7**
-oder der Schließen-Taste blendest du das Chatfenster aus. Über **Exit** beendest du
-das Programm.
+Type your question into the input field and press **Enter** or the Send button.
 
-Für Websuchen, Spracherkennung und die Update-Prüfung ist eine Internetverbindung
-erforderlich.
+Use the microphone button to enable or disable voice input. Press **F7** or click the Close button to hide the chat window. Click **Exit** to close the application completely.
+
+An internet connection is required for web searches, speech recognition, and update checks.
