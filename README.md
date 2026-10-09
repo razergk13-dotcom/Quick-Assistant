@@ -1,11 +1,11 @@
-# Quick Assistant
+# WebScout Assistant
 
-Quick Assistant is a lightweight desktop assistant for Windows, created by **RazerGK**.
+WebScout Assistant is a lightweight desktop assistant for Windows, created by **RazerGK**.
 
 ## Getting Started
 
 1. Open the Quick Assistant GitHub page and click **Releases** on the right.
-2. Open the latest release and download `Quick Assistent.exe` from the `Assets` section.
+2. Open the latest release and download `WebScout.Assistant.exe` from the `Assets` section.
 3. Save the EXE file to your Windows PC and double-click it to launch Quick Assistant.
 4. Press **F7** to open or close the assistant.
 
