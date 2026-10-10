@@ -1,42 +1,110 @@
-# WebScout Assistant
+WEBSCOUT ASSISTANT
+==================
 
-WebScout Assistant is a desktop assistant for Windows, created by **RazerGK**.
+WebScout Assistant is a desktop assistant for Windows. Search the web, ask
+questions, use voice input, and open applications from one chat window.
 
-Discord: https://discord.gg/at6mnHtB4Q
-Youtube: https://www.youtube.com/@Nexor-Cheatzz
 
-## Getting Started
+DOWNLOAD AND START
+------------------
 
-1. Open the WebScout Assistant GitHub page and click **Releases** on the right.
-2. Open the latest release and download `WebScout.Assistant.exe` from the `Assets` section.
-3. Save the EXE file to your Windows PC and double-click it to launch WebScout Assistant.
-4. Press **F7** to show or hide the full assistant window.
+1. Open the latest release:
+   https://github.com/razergk13-dotcom/WebScout-Assistant/releases
+2. Download WebScout.Assistant.exe from the release assets.
+3. Save the executable in a folder you can access and keep it there.
+4. Double-click it to start WebScout Assistant. Windows may show a security
+   warning the first time; only run files from sources you trust.
+5. Press F7 to show or hide the assistant window.
 
-When launching the application for the first time, Windows may display a security warning. Only run the file if you trust it. An internet connection is required to check for updates. If a new version is available, WebScout Assistant will ask whether you want to install the update. The update replaces the old EXE, launches the new `WebScout.Assistant.exe`, and removes the old filename.
+Web searches and update checks need an internet connection. Voice input needs a
+microphone and the required speech components.
 
-## What WebScout Assistant Can Do
 
-- Search the web for questions and search terms, check relevant page content locally, and display relevant original excerpts from the best-matching page with a link. If page content cannot be loaded, the regular search results remain visible.
-- Accept voice input in German, English, or Russian. A microphone and an internet connection are required.
-- Open supported applications when you type or say something like "Open Notepad." Apps cannot be closed using chat commands.
-- Respond directly to greetings and some common short messages.
+WHAT IT CAN DO
+--------------
 
-## How to Use It
+- Search Bing, DuckDuckGo, Yahoo, Google, Brave, Mojeek, Startpage, Ecosia,
+  Qwant, and English and German Wikipedia.
+- Show search results, relevant page excerpts, and links to sources.
+- Reply in German, English, or Russian.
+- Answer some greetings and common short messages locally.
+- Open applications with commands such as "Open Notepad" or "Öffne Editor".
+- Accept questions through a microphone and read replies aloud using available
+  Windows voices.
+- Open its menu with the "Assistant" wake word (beta).
+- Use a global keyboard shortcut, with F7 as the default.
+- Choose Blue, Black, or Emerald themes.
+- Optionally start when you sign in to Windows.
+- Check for updates at startup and install available releases.
 
-Type your question into the input field and press **Enter** or click the Send button.
 
-Use the microphone button to turn voice input on or off. The Close button, **Esc**, or **F7** hides the chat window. Press **F7** again to show it.
+QUICK TUTORIALS
+---------------
 
-The **☰** menu contains **Exit**, **Clear chat**, and **Settings**. Settings open directly inside the assistant window.
+Ask a question
+--------------
 
-There, you can change the response language, check for updates, and configure the menu shortcut. Click the displayed shortcut and press your desired key combination. The default shortcut is **F7**. You can use individual Windows keys or combine them with **Ctrl**, **Alt**, **Shift**, or **Win**.
+1. Press F7 to open the chat.
+2. Type a specific question, for example: "What are the main differences
+   between solar and wind power?"
+3. Press Enter or click Send.
+4. Open the source links to read the original pages.
 
-Click **Save and Close** to apply your changes. Settings are saved on your PC.
+Check important information against its sources. If a webpage is unavailable
+or cannot be analyzed, regular search results may still appear.
 
-The default response language is **English**. Web search results remain in the language of their respective sources.
+Open an application
+-------------------
 
-When a page is successfully retrieved, WebScout displays relevant original excerpts from the best-matching page. Headings, bold text, italic text, and lists are preserved where available. Sentences within a paragraph remain together.
+Type a command such as "Open Notepad", "Open Calculator", or "Öffne Editor".
+WebScout will try to launch the application. If it cannot find it, it may
+search for the application in your browser.
 
-There are no automatically generated AI summaries. Responses are limited to a maximum of 50 lines. If a page cannot be loaded or analyzed appropriately, the original search results are displayed as a fallback.
+Set up voice input
+------------------
 
-An internet connection is required for web searches, speech recognition, and update checks.
+1. Make sure Windows allows microphone access.
+2. Open Settings from the assistant menu.
+3. Choose a device under Microphone / input device, or use the Windows
+   default device.
+4. Select Save and close, then click the microphone button in the chat.
+5. Speak your question.
+
+Voice recognition requires a microphone and internet access. To use the wake
+word, enable "Say Assistant to open the menu (Beta)" in Settings.
+
+Change preferences
+------------------
+
+Open Settings from the assistant menu to change the theme, reply language,
+microphone, speech output, wake word, startup behavior, or keyboard shortcut.
+Select Save and close to apply changes. The assistant menu also contains
+Clear chat and Exit.
+
+
+UPDATES
+-------
+
+The installed app checks for a newer release when it starts. When an update is
+available, WebScout displays "Updating WebScout" and download progress,
+replaces the app executable, and starts the updated version. You can also
+select Check for updates in Settings.
+
+Running the Python source directly does not update an installed Windows
+executable.
+
+
+TROUBLESHOOTING
+---------------
+
+- F7 does nothing: Make sure WebScout is running. If another app uses F7,
+  choose a different shortcut in Settings.
+- No search results: Check your internet connection and try rephrasing the
+  question. Search providers or websites may be temporarily unavailable.
+- Microphone not working: Check Windows microphone permissions and select an
+  available input device in Settings.
+- Update fails: Check your internet connection. Keep the executable in a
+  folder where your Windows account can modify files, and close other running
+  copies of WebScout.
+- Settings are not saved: Select Save and close before closing the Settings
+  window.
