@@ -2,6 +2,9 @@
 
 WebScout Assistant is a desktop assistant for Windows, created by **RazerGK**.
 
+Discord: https://discord.gg/at6mnHtB4Q
+Youtube: https://www.youtube.com/@Nexor-Cheatzz
+
 ## Getting Started
 
 1. Open the WebScout Assistant GitHub page and click **Releases** on the right.
